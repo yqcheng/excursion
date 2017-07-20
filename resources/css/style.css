@@ -1,0 +1,21 @@
+html{
+  font-family:Verdana;
+  text-align:center;
+  background-color:black;
+}
+
+#footer{
+  text-align:right;
+}
+
+.white-font{
+  color:white;
+}
+
+.aquamarine-font{
+  color:aquamarine;
+}
+
+.gray-font{
+  color:gray;
+}
